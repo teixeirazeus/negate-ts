@@ -2,14 +2,18 @@
   "name": "negate-ts",
   "version": "0.0.0",
   "description": "Negate-ts is a TypeScript library that provides a simple and intuitive way to perform logical negation of boolean values.",
-  "keywords": [],
+  "keywords": ["negate", "negation", "boolean", "logical", "not", "ts", "typescript", "javascript", "js"],
   "main": "dist/negate-ts.umd.js",
   "module": "dist/negate-ts.es5.js",
   "typings": "dist/types/negate-ts.d.ts",
   "files": [
     "dist"
   ],
-  "author": "teixeirazeus <teixeira.zeus@gmail.com>",
+  "author": "Thiago S. Teixeira <teixeira.zeus@gmail.com> (https://thiagoteixeira.dev/)",
+  "bugs": {
+    "url": "https://github.com/teixeirazeus/negate-ts/issues"
+  },
+  "homepage": "https://github.com/teixeirazeus/negate-ts#readme",
   "repository": {
     "type": "git",
     "url": ""
