@@ -1,3 +1,4 @@
+![banner](https://raw.githubusercontent.com/teixeirazeus/negate-ts/master/readme_assets/banner.png)
 
 Negate-ts is a TypeScript library that provides a simple and intuitive way to perform logical negation of boolean values. It is designed to be flexible and reliable, and can be used in a variety of contexts.
 
